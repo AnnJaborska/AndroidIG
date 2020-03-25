@@ -1,8 +1,7 @@
 
 -	Team
 
-Paweł Sobociński
-Sandra Wasiela
+Anna Jaborska
 
 -	Description of application
 
